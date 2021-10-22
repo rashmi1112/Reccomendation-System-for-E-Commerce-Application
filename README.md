@@ -47,7 +47,7 @@ Below are some of my observations with different parameter values and their resp
 
 	a. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184516       
 	b. https://paperswithcode.com/paper/on-the-difficulty-of-evaluating-baselines-a             
-	c. https://arxiv.org/abs/1901.03888
-	d. https://www.coursera.org/learn/machine-learning/lecture/Rhg6r/problem-formulation
-	e. Coursera - Andrew Ng's course for Machine Learning (Recommender System) and its assignment from Week-9.
+	c. https://arxiv.org/abs/1901.03888                                                                                            
+	d. https://www.coursera.org/learn/machine-learning/lecture/Rhg6r/problem-formulation                                                    
+	e. Coursera - Andrew Ng's course for Machine Learning (Recommender System) and its assignment from Week-9.                                                               
 	f. https://www.netflixprize.com/assets/GrandPrize2009_BPC_BellKor.pdf
